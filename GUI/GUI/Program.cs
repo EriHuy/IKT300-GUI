@@ -18,8 +18,8 @@ namespace GUI
             Form1 form1 = new Form1();
 
 
-            double volt;
-            int percentVolt = 0;
+            //double volt;
+            //int percentVolt = 0;
 
             // get voltage
 
